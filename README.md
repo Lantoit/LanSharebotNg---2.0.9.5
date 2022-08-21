@@ -1,4 +1,4 @@
-# LanSharebotNg---2.0.9.5-
+# LanSharebotNg---2.0.9.5
 
 Marlin (https://marlinfw.org/) config files for a modified Sharebot NG (ttps://www.sharebot.it/en/)
 
