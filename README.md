@@ -1,11 +1,8 @@
 # LanSharebotNg---2.0.9.5-
 
+Marlin (https://marlinfw.org/) config files for a modified Sharebot NG (ttps://www.sharebot.it/en/)
 
-Marlin config files for a modified Sharebot NG
-
-
-
-I've added (thanks to marlin firmware and some spare parts): 
+I've added/changed:
 
 1) PSU management (the original was cooked!!)
 2) Filament runout (https://www.aliexpress.com/item/1005003565228895.html)
